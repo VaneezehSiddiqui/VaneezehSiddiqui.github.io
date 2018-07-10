@@ -5,7 +5,7 @@ This site contains all the information you would traditionally find on a resume.
 ### WORK EXPERIENCE 
 
 :zap: Royal Bank of Canada - Innovation Analyst 
-<h5> _July 2018 - August 2018_ </h5> 
+<h5> July 2018 - August 2018_ </h5> 
 <h6> Worked in groups of 4 to compete in hackathons </h6> 
 <h6>Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism) </h6> 
 <h6>Delivered business pitches to executives </h6> 
