@@ -5,16 +5,15 @@ This site contains all the information you would traditionally find on a resume.
 ### WORK EXPERIENCE 
 
 :zap: Royal Bank of Canada - Innovation Analyst 
-<h5> *July 2018 - August 2018* </h5> 
-<h5> Worked in groups of 4 to compete in hackathons </h5> 
-<h5>Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism) </h5> 
-<h5>Delivered business pitches to executives </h5> 
+<h5> _July 2018 - August 2018_ </h5> 
+<h6> Worked in groups of 4 to compete in hackathons </h6> 
+<h6>Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism) </h6> 
+<h6>Delivered business pitches to executives </h6> 
 
 :zap: HATCH Canada - Intern with the Technology Development Group 
-<h5> *August 2016* </h5> 
-<h5> Researched team projects and required materials, contacting companies and producing summaries </h5> 
-<h5> Conducted small scale experiments and collected data </h5> 
-
+<h5> _August 2016_ </h5> 
+<h6> Researched team projects and required materials, contacting companies and producing summaries </h6> 
+<h6> Conducted small scale experiments and collected data </h6> 
 
 1. Numbered
 2. List
@@ -23,13 +22,3 @@ This site contains all the information you would traditionally find on a resume.
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VaneezehSiddiqui/VaneezehSiddiqui.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
