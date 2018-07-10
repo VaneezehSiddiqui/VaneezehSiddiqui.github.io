@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hi there! Welcome to my site in progress. Feel free to explore and get a better idea of who I am.
 
 You can use the [editor on GitHub](https://github.com/VaneezehSiddiqui/VaneezehSiddiqui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
