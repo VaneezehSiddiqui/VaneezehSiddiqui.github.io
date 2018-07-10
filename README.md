@@ -1,8 +1,8 @@
-## Hi there! Welcome to my site in progress. Feel free to explore and get a better idea of who I am.
+## Hi there! My name is Vaneezeh, and welcome to my website. Feel free to explore and get a better idea of who I am and reach out if you'd like to get in touch!
 
-You can use the [editor on GitHub](https://github.com/VaneezehSiddiqui/VaneezehSiddiqui.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This site contains all the informatio you would traditionally find on a resume... except a website is ten times cooler! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Use the navigation tools to explore the facets of my personality.
 
 ### Markdown
 
