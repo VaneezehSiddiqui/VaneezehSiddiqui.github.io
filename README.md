@@ -1,19 +1,16 @@
-## Hi there! My name is Vaneezeh, and welcome to my website. Feel free to explore and get a better idea of who I am and reach out if you'd like to get in touch!
+## Hi there! My name is Vaneezeh, and welcome to my website. 
 
 This site contains all the informatio you would traditionally find on a resume... except a website is ten times cooler! 
 
-Use the navigation tools to explore the facets of my personality.
+### WORK EXPERIENCE 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:zap: Royal Bank of Canada - Innovation Analyst 
+July 2018 - August 2018 
+-Worked in groups of 4 to create 
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
