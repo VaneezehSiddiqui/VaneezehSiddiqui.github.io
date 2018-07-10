@@ -1,19 +1,18 @@
 ## Hi there! My name is Vaneezeh, and welcome to my website. 
 
-This site contains all the informatio you would traditionally find on a resume... except a website is ten times cooler! 
+This site contains all the information you would traditionally find on a resume... except a website is ten times cooler! 
 
 ### WORK EXPERIENCE 
 
 :zap: Royal Bank of Canada - Innovation Analyst 
-July 2018 - August 2018 
--Worked in groups of 4 to create 
+####July 2018 - August 2018 
+#####-Worked in groups of 4 to compete in hackathons
+#####-Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism)
+#####-Delivered business pitches to executives 
 
-```markdown
-Syntax highlighted code block
-
-
-- Bulleted
-- List
+:zap: HATCH Canada - Intern with the Technology Development Group 
+####August 2016
+#####-
 
 1. Numbered
 2. List
