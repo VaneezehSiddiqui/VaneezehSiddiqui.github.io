@@ -1,24 +1,28 @@
-## Hi there! My name is Vaneezeh, and welcome to my website. 
-
-This site contains all the information you would traditionally find on a resume... except a website is ten times cooler! 
+## Hi there! My name is Vaneezeh, and this is my website.
 
 ### WORK EXPERIENCE 
 
 :zap: Royal Bank of Canada - Innovation Analyst 
-<h5> July 2018 - August 2018_ </h5> 
+<h5> July 2018 - August 2018 </h5> 
 <h6> Worked in groups of 4 to compete in hackathons </h6> 
 <h6>Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism) </h6> 
 <h6>Delivered business pitches to executives </h6> 
 
 :zap: HATCH Canada - Intern with the Technology Development Group 
-<h5> _August 2016_ </h5> 
+<h5> August 2016 </h5> 
 <h6> Researched team projects and required materials, contacting companies and producing summaries </h6> 
 <h6> Conducted small scale experiments and collected data </h6> 
 
-1. Numbered
-2. List
+:zap: NxtEng Canada - Executive Marketing Manager
+<h5> February 2017 - June 2018 </h5> 
+<h6> Worked with this NGO to create and promote opportunities for youth to engage with engineering </h6> 
+<h6> Helped organize a student hackathon and university student panel (NxtHacks and NxtSteps) </h6>
+<h6> Monitored social media pages and created campaigns to bring 300 likes to our Facebook page </h6>
 
-**Bold** and _Italic_ and `Code` text
+### ACADEMIC ACHIEVEMENTS 
 
-[Link](url) and ![Image](src)
-```
+:zap: Royal Bank of Canada - Innovation Analyst 
+<h5> July 2018 - August 2018 </h5> 
+<h6> Worked in groups of 4 to compete in hackathons </h6> 
+<h6>Developed solutions to problems presented by teams within the bank (ex: email sorting mechanism) </h6> 
+<h6>Delivered business pitches to executives </h6> 
