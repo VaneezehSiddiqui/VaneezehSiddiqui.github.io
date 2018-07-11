@@ -1,4 +1,4 @@
-## Hi there! My name is Vaneezeh Siddiqui, an undergraduate student at the University of Toronto.
+## Hi there! My name is Vaneezeh Siddiqui, and I am an undergraduate student at the University of Toronto.
 
 ### WORK EXPERIENCE 
 
